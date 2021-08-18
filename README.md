@@ -18,13 +18,13 @@
 
 
 ### Follow me :)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wind111-lang&label=Profile%20views&color=0e75b6&style=flat" alt="wind111-lang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wind111-lang&label=Profile%20views&color=0e75b6&style=flat" alt="wind111-lang" /> 
 
 <a href="https://github.com/wind111-lang">
     <img height="20" src="https://img.shields.io/github/followers/wind111-lang?label=follow&logo=github&style=flat" />
-  </a>
-
-<p align="center"> <a href="https://twitter.com/tsuttsun_daxue" target="blank"><img src="https://img.shields.io/twitter/follow/tsuttsun_daxue?logo=twitter&style=for-the-badge" alt="tsuttsun_daxue" /></a> </p>
+ </a>
+ <a href="https://twitter.com/tsuttsun_daxue" target="blank"><img src="https://img.shields.io/twitter/follow/tsuttsun_daxue?logo=twitter&style=for-the-badge" alt="tsuttsun_daxue" /></a> 
+</p>
 
 <h3 align="right">Follow me:</h3>
 <p align="right">
