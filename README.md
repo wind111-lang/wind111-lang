@@ -5,8 +5,7 @@
 - 💬 コノ質問ハ受ケツケル　... Customize PC
 - ⚡  趣味 ... Customize my PC, Playing Game.
 
-![wind111-lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&theme=tokyonight)
-
+![wind111-lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wind111-lang&layout=compact)](https://github.com/wind111-lang/github-readme-stats)
 
 <p align="left"> 
   <a href="https://github.com/wind111-lang/wind111-lang/">
