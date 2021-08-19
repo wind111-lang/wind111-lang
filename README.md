@@ -32,4 +32,4 @@
 </p>
 
 
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=wind111-lang&label=Profile%20views&color=0e75b6&style=flat" alt="wind111-lang" /> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=wind111-lang&label=Profile%20views&color=0e75b6&style=flat" alt="wind111-lang" /> 
