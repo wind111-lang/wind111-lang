@@ -1,5 +1,8 @@
 ### Welcome to my Profile!
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=wind111-lang&label=Profile%20views&color=0e75b6&style=flat" alt="wind111-lang" /> 
+
+
 - 🌱 勉強中 ... Golang, MySQL
 - 🤔 教示求ム ... Golang
 - 💬 コノ質問ハ受ケツケル　... Customize PC
@@ -20,8 +23,6 @@
 
 
 ### Follow me :)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wind111-lang&label=Profile%20views&color=0e75b6&style=flat" alt="wind111-lang" /> 
-
 <a href="https://github.com/wind111-lang">
     <img height="20" src="https://img.shields.io/github/followers/wind111-lang?label=follow&logo=github&style=flat" />
  </a>
