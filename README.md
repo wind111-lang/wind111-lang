@@ -30,7 +30,3 @@
 <p align="right">
 <a href="https://twitter.com/tsuttsun_daxue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsuttsun_daxue" height="30" width="40" /></a>
 </p>
-
-
-<script type="text/javascript" src="https://www.counters-free.net/count/966d"></script><br>
- <a href='http://xn--besucherzhlerkostenlos-84b.com/'>Counter mit html</a> <script type='text/javascript' src='https://whomania.com/ctr?id=b34e33f0a9c1377b66f263d53fb4a0dbe5a93f2e'></script>
