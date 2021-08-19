@@ -32,4 +32,5 @@
 </p>
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wind111-lang&label=Profile%20views&color=0e75b6&style=flat" alt="wind111-lang" /> 
+<script type="text/javascript" src="https://www.counters-free.net/count/966d"></script><br>
+ <a href='http://xn--besucherzhlerkostenlos-84b.com/'>Counter mit html</a> <script type='text/javascript' src='https://whomania.com/ctr?id=b34e33f0a9c1377b66f263d53fb4a0dbe5a93f2e'></script>
