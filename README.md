@@ -1,4 +1,4 @@
-### Welcome to my Profile! <p align="right"> <img src="https://komarev.com/ghpvc/?username=wind111-lang&label=Profile%20views&color=0e75b6&style=flat" alt="wind111-lang" /> 
+### Welcome to my Profile!
 
 - 🌱 勉強中 ... Golang, MySQL
 - 🤔 教示求ム ... Golang
@@ -30,3 +30,4 @@
 <p align="right">
 <a href="https://twitter.com/tsuttsun_daxue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsuttsun_daxue" height="30" width="40" /></a>
 </p>
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=wind111-lang&label=Profile%20views&color=0e75b6&style=flat" alt="wind111-lang" /> 
