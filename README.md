@@ -19,7 +19,7 @@
 
 
 
-### Follow me :)
+### Follow me my accounts :)
 <a href="https://github.com/wind111-lang">
     <img height="20" src="https://img.shields.io/github/followers/wind111-lang?label=follow&logo=github&style=flat" />
  </a>
