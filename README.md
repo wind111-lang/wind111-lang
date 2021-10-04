@@ -23,10 +23,10 @@
 <a href="https://github.com/wind111-lang">
     <img height="20" src="https://img.shields.io/github/followers/wind111-lang?label=follow&logo=github&style=flat" />
  </a>
- <a href="https://twitter.com/tsuttsun_daxue" target="blank"><img src="https://img.shields.io/twitter/follow/tsuttsun_daxue?logo=twitter&style=for-the-badge" alt="tsuttsun_daxue" /></a> 
+ <a href="https://twitter.com/tsuttsun_kk" target="blank"><img src="https://img.shields.io/twitter/follow/tsuttsun_daxue?logo=twitter&style=for-the-badge" alt="tsuttsun_daxue" /></a> 
 </p>
 
 <h3 align="right">My Profile:</h3>
 <p align="right">
-<a href="https://twitter.com/tsuttsun_daxue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsuttsun_daxue" height="30" width="40" /></a>
+<a href="https://twitter.com/tsuttsun_kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsuttsun_daxue" height="30" width="40" /></a>
 </p>
