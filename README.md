@@ -1,9 +1,9 @@
 ### Welcome to my Profile!
 
-- 🌱 勉強中 ... Golang, MySQL
-- 🤔 教示求ム ... Golang
-- 💬 コノ質問ハ受ケツケル　... Customize PC
-- ⚡  趣味 ... Customize my PC, Playing Game.
+- 🌱 Studying ... Golang, MySQL
+- 🤔 Teach me ... Golang
+- 💬 Feel free to Question about　... Customize PC
+- ⚡  Hobby ... Customize my PC, Playing Game.
 ---------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
