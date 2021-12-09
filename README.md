@@ -15,7 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight" alt="wind111-lang" /></p>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=wind111-lang&theme=matrix"</p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=wind111-lang&theme=matrix&margin-h=15"</p>
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wind111-lang&" alt="wind111-lang" /></p>
 
