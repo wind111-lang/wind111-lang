@@ -12,9 +12,9 @@
 
 ### My GitHub Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight" alt="wind111-lang" /></p>
+<p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="wind111-lang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight" alt="wind111-lang" /></p>
+<p>&nbsp;<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight" alt="wind111-lang" /></p>
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=wind111-lang&theme=matrix&margin-h=15"</p>
     
