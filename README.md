@@ -1,9 +1,9 @@
-### Welcome to my Profile!
+### Hi! I'm wind111-lang!
 
-- 🌱 Studying ... Golang, MySQL
-- 🤔 Teach me ... Golang
+- 🌱 Studying ... Golang
+- 🤔 Teach me ... Golang about HTTP library
 - 💬 Feel free to Question about　... Customize PC
-- ⚡  Hobby ... Customize my PC, Playing Game.
+- ⚡  Hobby ... Customize my PC, Playing Game, AtCoder.
 ---------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight" alt="wind111-lang" /></p>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=wind111-lang&theme=matrix&margin-h=15"</p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=wind111-lang&theme=matrix&margin-h=15&column=7"</p>
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wind111-lang&" alt="wind111-lang" /></p>
 
