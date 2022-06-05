@@ -16,6 +16,10 @@
 
 <p>&nbsp;<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight" alt="wind111-lang" /></p>
 
+[![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=wind111-lang&theme=matrix&margin-h=15&column=8"</p>
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wind111-lang&" alt="wind111-lang" /></p>
