@@ -1,8 +1,8 @@
 ### Hi! I'm wind111-lang!
 
 - 🌱 Studying ... Golang
-- 🤔 Teach me ... Golang about HTTP library
-- 💬 Feel free to Question about　... Customize PC
+- 🤔 Teach me ... Golang about Gin Framework
+- 💬 Feel free to Question about ... Customize PC
 - ⚡  Hobby ... Customize my PC, Playing Game, AtCoder.
 ---------------------------------------------
 
