@@ -3,7 +3,7 @@
 - 🌱 Studying ... Golang
 - 🤔 Teach me ... Golang about Gin Framework
 - 💬 Feel free to Question about ... Customize PC
-- ⚡  Hobby ... Customize my PC, Playing Game, AtCoder.
+- ⚡  Enjoying ... Customize my PC, Playing Game, AtCoder.
 ---------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
