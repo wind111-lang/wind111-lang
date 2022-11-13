@@ -24,7 +24,7 @@ Docker: ■□□□□
 ##### What is this square? 
 ■□□□□: Interested.  
 ■■□□□: Can write with reference.  
-■■■□□: Can write eithout reference.  
+■■■□□: Can write without reference.  
 ■■■■□: Can make library and module.  
 ■■■■■: **Plateu of Sustainability.**
 
