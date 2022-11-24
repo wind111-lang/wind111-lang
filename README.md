@@ -30,10 +30,8 @@ Docker: ■□□□□
 
 ### My GitHub Status
 
-<p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="wind111-lang" /></p>
-
-<p>&nbsp;<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight" alt="wind111-lang" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="wind111-lang)](https://github.com/anuraghazra/github-readme-stats)
+![wind111-lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&theme=tokyonight)
 [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
