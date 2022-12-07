@@ -33,9 +33,10 @@ Docker: ■□□□□
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![wind111-lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&theme=tokyonight)
 
-[![](https://raw.githubusercontent.com/wind111-lang/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/wind111-lang/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/wind111-lang/github-profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/wind111-lang/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wind111-lang/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/wind111-lang/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/wind111-lang/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/wind111-lang/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wind111-lang/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/wind111-lang/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=wind111-lang&theme=matrix&margin-h=15&column=8"</p>
