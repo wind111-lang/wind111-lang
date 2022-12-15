@@ -1,7 +1,7 @@
 ### Hi! I'm wind111-lang!
 
 - 🌱 Studying ... Golang
-- 🤔 Teach me ... Golang about Gin Framework
+- 🤔 Teach me ... Golang about Network library(OSI Layer upper 5)
 - 💬 Feel free to Question about ... Customize PC
 - ⚡  Enjoying ... Customize my PC, Playing Game, AtCoder, and Liquor.
 ---------------------------------------------
