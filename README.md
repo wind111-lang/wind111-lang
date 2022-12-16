@@ -21,7 +21,7 @@ React: ■□□□□
 Rust: ■□□□□
 Docker: ■□□□□  
 
-##### What is this square? 
+##### What does mean these square? 
 ■□□□□: Interested.  
 ■■□□□: Can write with reference.  
 ■■■□□: Can write without reference.  
