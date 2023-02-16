@@ -1,6 +1,6 @@
 ### Hi! I'm wind111-lang!
 
-- 🌱 Studying ... Golang
+- 🌱 Studying ... Golang, Flutter
 - 🤔 Teach me ... Golang about Network library(OSI Layer lower 5)
 - 💬 Feel free to Question about ... Customize PC
 - ⚡  Enjoying ... Customize my PC, Playing Game, AtCoder, and Liquor.
@@ -18,6 +18,7 @@ MariaDB: ■■■□□
 Java: ■■□□□
 JavaScript: ■■□□□
 React: ■□□□□
+Flutter(Dart):■□□□□
 Rust: ■□□□□
 Docker: ■□□□□  
 
