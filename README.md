@@ -1,7 +1,7 @@
 ### Hi! I'm wind111-lang!
 
-- 🌱 Studying ... Golang, Flutter
-- 🤔 Teach me ... Golang about Network library(OSI Layer lower 5)
+- 🌱 Studying ... Golang
+- 🤔 Teach me ... Golang about Network library and PHP(Laravel), Next.js
 - 💬 Feel free to Question about ... Customize PC
 - ⚡  Enjoying ... Customize my PC, Playing Game, AtCoder, and Liquor.
 ---------------------------------------------
