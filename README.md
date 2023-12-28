@@ -26,7 +26,7 @@ Rust: ■□□□□
 Japanese🇯🇵: Native!  
 English🇺🇸: Daily conversation, read Article thesis. (Only U.S. pronounce)  
 Korean🇰🇷: read Hangul characters. (South Korean standard language)  
-Chinese🇨🇳: Begginer. (Mandarin)  
+Chinese🇨🇳: Beginner. (Mandarin)  
 
 ##### What does mean these square? 
 ■□□□□: Interested.  
