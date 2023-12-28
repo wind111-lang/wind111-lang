@@ -23,10 +23,10 @@ Flutter(Dart):■□□□□
 Rust: ■□□□□
 
 #### Foreign Language Level
-Japanese🇯🇵: Native!
-English🇺🇸: Daily conversation, read Article thesis. (Only U.S. pronounce)
-Korean🇰🇷: read Hangul characters. (South Korean standard language)
-Chinese🇨🇳: Begginer. (Mandarin)
+Japanese🇯🇵: Native!  
+English🇺🇸: Daily conversation, read Article thesis. (Only U.S. pronounce)  
+Korean🇰🇷: read Hangul characters. (South Korean standard language)  
+Chinese🇨🇳: Begginer. (Mandarin)  
 
 ##### What does mean these square? 
 ■□□□□: Interested.  
