@@ -24,7 +24,7 @@ Rust: ■□□□□
 
 #### Foreign Language Level
 Japanese🇯🇵: Native! (Japanese standard language with Nagoya dialect)  
-English🇺🇸: Daily conversation, read Article thesis. (Only U.S. pronounce, accent)  
+English🇺🇸: Daily conversation, read Article thesis. (Only U.S. pronounce)  
 Korean🇰🇷: read Hangul characters, speak Basic conversation. (South Korean standard language)  
 Chinese🇨🇳: Beginner. (Mandarin)  
 
