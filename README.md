@@ -1,6 +1,6 @@
 ### Hi! I'm wind111-lang!
 
-- 🌱 Studying ... Golang
+- 🌱 Studying ... Golang and PHP
 - 🤔 Teach me ... Golang and PHP(Laravel), Next.js
 - 💬 Feel free to Question about ... Customize PC, Python
 - ⚡  Enjoying ... Customize my PC, Playing Game, AtCoder, and Beer🍺.
