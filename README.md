@@ -18,8 +18,8 @@ Java: ■■□□□
 JavaScript: ■■□□□  
 PHP: ■■□□□  
 Docker: ■■□□□  
-React(Next): ■□□□□  
-Flutter(Dart):■□□□□  
+TypeScript(NextJS): ■□□□□  
+Dart(Flutter):■□□□□  
 Rust: ■□□□□  
 
 #### Foreign Language Level
