@@ -25,6 +25,16 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/solarized/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
