@@ -21,9 +21,9 @@ Dart(Flutter):■□□□□
 Rust: ■□□□□  
 
 ### Other Skill Level
-PostgreSQL: ■■■□□
-AWS S3: ■■■□□ 
-ONTAP: ■■□□□ 
+PostgreSQL: ■■■□□  
+AWS S3: ■■■□□  
+ONTAP: ■■□□□  
 OpenSearch: ■□□□□  
 
 #### Foreign Language Level
