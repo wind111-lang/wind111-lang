@@ -1,9 +1,9 @@
 ### Hi! I'm wind111-lang!
 
-- 🌱 Studying ... Golang and PHP
-- 🤔 Teach me ... Golang and PHP(Laravel), Next.js
-- 💬 Feel free to Question about ... Customize PC, Python
-- ⚡  Enjoying ... Customize my PC, Playing Game, AtCoder, and Beer🍺.
+- 🌱 Studying ... AWS, PHP
+- 🤔 Teach me ... TypeScript, AWS 
+- 💬 Feel free to Question about ... Customize PC, Cocktail, PHP, Golang
+- ⚡  Enjoying ... Customize my PC, Playing Game, Beer🍺, Cocktail.
 ---------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
