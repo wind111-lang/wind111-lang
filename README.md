@@ -70,5 +70,6 @@ Chinese🇨🇳: Beginner. (Mandarin)
 <a href="https://twitter.com/tsuttsun_wind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsuttsun_wind" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Please support a cup of coffee</h3>
+<h3 align="left">Please support a cup of coffee :)</h3>
 <p><a href="https://www.buymeacoffee.com/wind111"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wind111" /></a></p><br><br>
+<iframe src="https://github.com/sponsors/wind111-lang/button" title="Sponsor wind111-lang" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
