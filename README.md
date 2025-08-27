@@ -72,4 +72,3 @@ Chinese🇨🇳: Beginner. (Mandarin)
 
 <h3 align="left">Please support a cup of coffee :)</h3>
 <p><a href="https://www.buymeacoffee.com/wind111"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wind111" /></a></p><br><br>
-<iframe src="https://github.com/sponsors/wind111-lang/button" title="Sponsor wind111-lang" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
