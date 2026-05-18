@@ -28,7 +28,7 @@ OpenSearch: ■□□□□
 
 #### Foreign Language Level
 Japanese🇯🇵: Native! (Japanese standard language with Nagoya dialect)  
-English🇺🇸: Daily conversation, read article thesis. (U.S. pronounce)
+English🇺🇸: Daily conversation, read article thesis. (U.S. pronounce)  
 Korean🇰🇷: read Hangul characters, speak Basic conversation. (South/North Korean standard language)  
 Chinese🇨🇳: speak Basic conversation. (Mandarin)  
 
