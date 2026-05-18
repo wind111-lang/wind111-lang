@@ -1,9 +1,9 @@
 ### Hi! I'm wind111-lang!
 
-- 🌱 Studying ... AWS, PHP
+- 🌱 Studying ... AWS, PHP, Go
 - 🤔 Teach me ... TypeScript, AWS 
-- 💬 Feel free to Question about ... Customize PC, Cocktail, PHP, Golang
-- ⚡  Enjoying ... Customize my PC, Playing Game, Beer🍺, Cocktail.
+- 💬 Feel free to Question about ...  Cocktail, Darts, PHP, Golang
+- ⚡  Enjoying ... Playing Game, Beer🍺, Cocktail, Darts.
 ---------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,9 +28,9 @@ OpenSearch: ■□□□□
 
 #### Foreign Language Level
 Japanese🇯🇵: Native! (Japanese standard language with Nagoya dialect)  
-English🇺🇸: Daily conversation, read Article thesis. (Only U.S. pronounce)  
-Korean🇰🇷: read Hangul characters, speak Basic conversation. (South Korean standard language)  
-Chinese🇨🇳: Beginner. (Mandarin)  
+English🇺🇸: Daily conversation, read article thesis. (U.S. pronounce)
+Korean🇰🇷: read Hangul characters, speak Basic conversation. (South/North Korean standard language)  
+Chinese🇨🇳: speak Basic conversation. (Mandarin)  
 
 ##### What does mean these square? 
 ■□□□□: Interested.  
