@@ -53,10 +53,7 @@ Chinese🇨🇳: speak Basic conversation. (Mandarin)
 
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=wind111-lang&theme=matrix&margin-h=15&column=8"</p>
-    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wind111-lang&" alt="wind111-lang" /></p>
-
-
+   
 
 ### Please follow my accounts :)
 <a href="https://github.com/wind111-lang">
