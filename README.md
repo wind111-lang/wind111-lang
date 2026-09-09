@@ -41,19 +41,11 @@ Chinese🇨🇳: speak Basic conversation. (Mandarin)
 
 ### My GitHub Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wind111-lang&show_icons=true&locale=en&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![wind111-lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wind111-lang&show_icons=true&theme=tokyonight)
-
-
 [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/wind111-lang/wind111-lang/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wind111-lang&theme=2077&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=wind111-lang&theme=matrix&margin-h=15&column=8"</p>
-   
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wind111-lang&theme=2077&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)   
 
 ### Please follow my accounts :)
 <a href="https://github.com/wind111-lang">
